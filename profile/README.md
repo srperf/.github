@@ -12,19 +12,19 @@ GitTogethers serves as a platform for organizing and promoting GitHub community-
 
 | City              | Repository URL                       | Meetup URL |
 |-------------------|--------------------------------------|------------|
-| Bengaluru         | gh.io/gittogether-bengaluru          |            |
-| CDMX              | gh.io/gittogether-cdmx               |            |
-| Delhi             | gh.io/gittogether-delhi              |            |
-| Florianopolis     | gh.io/gittogether-florianopolis      |            |
-| Fortaleza         | gh.io/gittogether-fortaleza          |            |
-| Guatemala City    | gh.io/gittogether-guatemala-city     |            |
-| Hyderabad         | gh.io/gittogether-hyderabad          |            |
-| Medellin          | gh.io/gittogether-medellin           |            |
-| Mumbai            | gh.io/gittogether-mumbai             |            |
-| Salvador          | gh.io/gittogether-salvador           |            |
-| Santiago de Chile | gh.io/gittogether-santiago-de-chile  |            |
-| Sao Paulo         | gh.io/gittogether-sao-paulo          |            |
-| Villahermosa      | gh.io/gittogether-villahermosa       |            |
+| Bengaluru         | gh.io/gittogether-bengaluru          |   https://www.meetup.com/gittogether-bengaluru         |
+| CDMX              | gh.io/gittogether-cdmx               |    https://www.meetup.com/gittogether-cdmx        |
+| Delhi             | gh.io/gittogether-delhi              |    https://www.meetup.com/gittogether-delhi       |
+| Florianopolis     | gh.io/gittogether-florianopolis      |    https://www.meetup.com/gittogether-brasil      |
+| Fortaleza         | gh.io/gittogether-fortaleza          |    https://www.meetup.com/gittogether-brasil     |
+| Guatemala City    | gh.io/gittogether-guatemala-city     |    https://www.meetup.com/gittogether-guatemala|
+| Hyderabad         | gh.io/gittogether-hyderabad          |    https://www.meetup.com/gittogether-hyderabad        |
+| Medellin          | gh.io/gittogether-medellin           |    https://www.meetup.com/gittogether-latam       |
+| Mumbai            | gh.io/gittogether-mumbai             |     https://www.meetup.com/gittogether-mumbai       |
+| Santiago de Chile | gh.io/gittogether-santiago-de-chile  |     https://www.meetup.com/gittogether-bsantiago       |
+| Sao Paulo         | gh.io/gittogether-sao-paulo          |     https://www.meetup.com/gittogether-brasil       |
+| Sri Lanka     | gh.io/gittogether-srilanka         |     https://www.meetup.com/gittogether-srilanka     |
+| Villahermosa      | gh.io/gittogether-villahermosa       |     https://www.meetup.com/gittogether-latam|
 
 ## How to Get Involved
 
@@ -38,7 +38,7 @@ There are several ways you can get involved with GitTogethers:
 
 ## Upcoming Events
 
-Check out our [Events Page](https://www.meetup.com/pro/github-virtual-meetup/)) to see the upcoming GitTogethers events. From GitTogethers meetup events to workshops on the latest programming languages and hackathons tackling real-world challenges, there's always something exciting happening in the GitTogethers community.
+Check out our [Events Page](https://www.meetup.com/pro/github-virtual-meetup/) to see the upcoming GitTogethers events. From GitTogethers meetup events to workshops on the latest programming languages and hackathons tackling real-world challenges, there's always something exciting happening in the GitTogethers community.
 
 ## Resources
 
