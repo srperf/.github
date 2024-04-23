@@ -44,11 +44,11 @@ Check out our [Events Page](https://www.meetup.com/pro/github-virtual-meetup/) t
 
 To support your journey with GitTogethers, we provide a range of resources:
 
-- **[Community Leader Program Overview](https://gittogethers.org/community-leaders)**: Learn more about our Community Leader Program and how you can become a leader in your local tech community.
+- **[Community Leader Program Overview](https://gittogethers.ocom/community-leaders)**: Learn more about our Community Leader Program and how you can become a leader in your local tech community.
 
-- **[Collaboration Tools](https://gittogethers.org/collaboration-tools)**: Discover a curated list of collaboration tools and platforms that can enhance your experience of working together on projects and initiatives.
+- **[Collaboration Tools](https://gittogethers.com/collaboration-tools)**: Discover a curated list of collaboration tools and platforms that can enhance your experience of working together on projects and initiatives.
 
-- **[Workshop Resources](https://gittogethers.org/workshop-resources)**: Access a collection of resources, tutorials, and guides to help you organize and deliver effective workshops at GitTogethers events.
+- **[Workshop Resources](https://gittogethers.com/workshop-resources)**: Access a collection of resources, tutorials, and guides to help you organize and deliver effective workshops at GitTogethers events.
 
 ## Get in Touch
 
