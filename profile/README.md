@@ -6,6 +6,26 @@ GitTogethers is an organization dedicated to fostering community-led events and 
 
 GitTogethers serves as a platform for organizing and promoting GitHub community-led events. We believe in the power of collaboration and knowledge sharing to drive innovation and growth within the tech industry. By facilitating events and providing resources, we aim to empower individuals and communities to come together and create amazing things.
 
+### Existing GitTgoethers City Repositories and Meetup URLs
+
+![README](https://github.com/gittogethers/.github/assets/20666190/f600a88d-5a40-4779-a759-7333151aa782)
+
+| City              | Repository URL                       | Meetup URL |
+|-------------------|--------------------------------------|------------|
+| Bengaluru         | gh.io/gittogether-bengaluru          |            |
+| CDMX              | gh.io/gittogether-cdmx               |            |
+| Delhi             | gh.io/gittogether-delhi              |            |
+| Florianopolis     | gh.io/gittogether-florianopolis      |            |
+| Fortaleza         | gh.io/gittogether-fortaleza          |            |
+| Guatemala City    | gh.io/gittogether-guatemala-city     |            |
+| Hyderabad         | gh.io/gittogether-hyderabad          |            |
+| Medellin          | gh.io/gittogether-medellin           |            |
+| Mumbai            | gh.io/gittogether-mumbai             |            |
+| Salvador          | gh.io/gittogether-salvador           |            |
+| Santiago de Chile | gh.io/gittogether-santiago-de-chile  |            |
+| Sao Paulo         | gh.io/gittogether-sao-paulo          |            |
+| Villahermosa      | gh.io/gittogether-villahermosa       |            |
+
 ## How to Get Involved
 
 There are several ways you can get involved with GitTogethers:
