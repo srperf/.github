@@ -6,7 +6,7 @@ GitTogethers is an organization dedicated to fostering community-led events and 
 
 GitTogethers serves as a platform for organizing and promoting GitHub community-led events. We believe in the power of collaboration and knowledge sharing to drive innovation and growth within the tech industry. By facilitating events and providing resources, we aim to empower individuals and communities to come together and create amazing things.
 
-### Existing GitTgoethers City Repositories and Meetup URLs
+### Existing GitTogethers City Repositories and Meetup URLs
 
 ![README](https://github.com/gittogethers/.github/assets/20666190/f600a88d-5a40-4779-a759-7333151aa782)
 
