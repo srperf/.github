@@ -38,7 +38,7 @@ There are several ways you can get involved with GitTogethers:
 
 ## Upcoming Events
 
-Check out our [Events Page](https://gittogethers.org/events) to see the upcoming GitTogethers events. From GitTogethers meetup events to workshops on the latest programming languages and hackathons tackling real-world challenges, there's always something exciting happening in the GitTogethers community.
+Check out our [Events Page](https://www.meetup.com/pro/github-virtual-meetup/)) to see the upcoming GitTogethers events. From GitTogethers meetup events to workshops on the latest programming languages and hackathons tackling real-world challenges, there's always something exciting happening in the GitTogethers community.
 
 ## Resources
 
