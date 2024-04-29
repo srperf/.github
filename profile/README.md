@@ -21,7 +21,7 @@ GitTogethers serves as a platform for organizing and promoting GitHub community-
 | Hyderabad         | gh.io/gittogether-hyderabad          |    https://www.meetup.com/gittogether-hyderabad        |
 | Medellin          | gh.io/gittogether-medellin           |    https://www.meetup.com/gittogether-latam       |
 | Mumbai            | gh.io/gittogether-mumbai             |     https://www.meetup.com/gittogether-mumbai       |
-| Santiago de Chile | gh.io/gittogether-santiago-de-chile  |     https://www.meetup.com/gittogether-bsantiago       |
+| Santiago de Chile | gh.io/gittogether-santiago-de-chile  |     https://www.meetup.com/gittogether-santiago       |
 | Sao Paulo         | gh.io/gittogether-sao-paulo          |     https://www.meetup.com/gittogether-brasil       |
 | Sri Lanka     | gh.io/gittogether-srilanka         |     https://www.meetup.com/gittogether-srilanka     |
 | Villahermosa      | gh.io/gittogether-villahermosa       |     https://www.meetup.com/gittogether-latam|
