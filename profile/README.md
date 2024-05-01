@@ -8,11 +8,14 @@ GitTogethers serves as a platform for organizing and promoting GitHub community-
 
 ### Existing GitTogethers City Repositories and Meetup URLs
 
-![README](https://github.com/gittogethers/.github/assets/20666190/f600a88d-5a40-4779-a759-7333151aa782)
+![org-banner](https://github.com/gittogethers/.github/assets/20666190/b64c5ecf-b206-4fc4-8ce0-eb9c4188f3a6)
+
+
 
 | City              | Repository URL                       | Meetup URL |
 |-------------------|--------------------------------------|------------|
 | Bengaluru         | gh.io/gittogether-bengaluru          |   https://www.meetup.com/gittogether-bengaluru         |
+| Buenos Aires      | gh.io/gittogether-buenosaires         |   https://www.meetup.com/gittogether-buenos-aires        |
 | CDMX              | gh.io/gittogether-cdmx               |    https://www.meetup.com/gittogether-cdmx        |
 | Delhi             | gh.io/gittogether-delhi              |    https://www.meetup.com/gittogether-delhi       |
 | Florianopolis     | gh.io/gittogether-florianopolis      |    https://www.meetup.com/gittogether-brasil      |
