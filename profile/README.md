@@ -19,12 +19,12 @@ GitTogethers serves as a platform for organizing and promoting GitHub community-
 | Delhi             | [https://github.com/gitogethers/delhi](https://github.com/gitogethers/delhi) | https://www.meetup.com/gittogether-delhi       |
 | Florianopolis     | [https://github.com/gitogethers/florianopolis](https://github.com/gitogethers/florianopolis) | https://www.meetup.com/gittogether-brasil      |
 | Fortaleza         | [https://github.com/gitogethers/fortaleza](https://github.com/gitogethers/fortaleza) | https://www.meetup.com/gittogether-brasil     |
-| Guatemala City    | [https://github.com/gitogethers/guatemala](https://github.com/gitogethers/guatemala-city) | https://www.meetup.com/gittogether-guatemala|
+| Guatemala City    | [https://github.com/gitogethers/guatemala](https://github.com/gitogethers/guatemala) | https://www.meetup.com/gittogether-guatemala|
 | Hyderabad         | [https://github.com/gitogethers/hyderabad](https://github.com/gitogethers/hyderabad) | https://www.meetup.com/gittogether-hyderabad        |
 | Medellin          | [https://github.com/gitogethers/medellin](https://github.com/gitogethers/medellin) | https://www.meetup.com/gittogether-latam       |
 | Mumbai            | [https://github.com/gitogethers/mumbai](https://github.com/gitogethers/mumbai) | https://www.meetup.com/gittogether-mumbai       |
-| Santiago de Chile | [https://github.com/gitogethers/santiago](https://github.com/gitogethers/santiago-de-chile) | https://www.meetup.com/gittogether-santiago       |
-| Sao Paulo         | [https://github.com/gitogethers/saopaulo](https://github.com/gitogethers/sao-paulo) | https://www.meetup.com/gittogether-brasil       |
+| Santiago de Chile | [https://github.com/gitogethers/santiago](https://github.com/gitogethers/santiago) | https://www.meetup.com/gittogether-santiago       |
+| Sao Paulo         | [https://github.com/gitogethers/saopaulo](https://github.com/gitogethers/saopaulo) | https://www.meetup.com/gittogether-brasil       |
 | Sri Lanka     | [https://github.com/gitogethers/srilanka](https://github.com/gitogethers/srilanka) | https://www.meetup.com/gittogether-srilanka     |
 | Villahermosa      | [https://github.com/gitogethers/villahermosa](https://github.com/gitogethers/villahermosa) | https://www.meetup.com/gittogether-latam|
 
