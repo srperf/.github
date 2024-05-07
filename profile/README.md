@@ -16,7 +16,7 @@ GitTogethers serves as a platform for organizing and promoting GitHub community-
 |-------------------|--------------------------------------|------------|
 | Bengaluru         | gh.io/gittogether-bengaluru          |   https://www.meetup.com/gittogether-bengaluru         |
 | Buenos Aires      | gh.io/gittogether-buenosaires         |   https://www.meetup.com/gittogether-buenos-aires        |
-| CDMX              | [gh.io/gittogether-cdmx  ](https://github.com/gittogethers/cdmx)             |    https://www.meetup.com/gittogether-cdmx        |
+| CDMX              | [https://github.com/gittogethers/cdmx](https://github.com/gittogethers/cdmx)             |    https://www.meetup.com/gittogether-cdmx        |
 | Delhi             | gh.io/gittogether-delhi              |    https://www.meetup.com/gittogether-delhi       |
 | Florianopolis     | gh.io/gittogether-florianopolis      |    https://www.meetup.com/gittogether-brasil      |
 | Fortaleza         | gh.io/gittogether-fortaleza          |    https://www.meetup.com/gittogether-brasil     |
